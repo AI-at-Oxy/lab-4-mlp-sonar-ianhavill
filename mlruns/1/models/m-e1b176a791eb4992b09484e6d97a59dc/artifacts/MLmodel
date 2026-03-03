@@ -1,0 +1,23 @@
+artifact_path: /mnt/c/Users/compsci6650/Desktop/deeplearning/lab-4-mlp-sonar-ianhavill/mlruns/1/models/m-e1b176a791eb4992b09484e6d97a59dc/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.10.19
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.10.0+cu128
+mlflow_version: 3.9.0
+model_id: m-e1b176a791eb4992b09484e6d97a59dc
+model_size_bytes: 4401
+model_uuid: m-e1b176a791eb4992b09484e6d97a59dc
+prompts: null
+run_id: fcd36b8c10ec4150b3670a6845907f3a
+utc_time_created: '2026-02-25 19:05:25.357792'
